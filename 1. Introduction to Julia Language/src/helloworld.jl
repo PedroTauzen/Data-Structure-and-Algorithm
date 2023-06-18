@@ -5,4 +5,5 @@ helloworld:
 - Date: 2023-06-18
 =#
 
-print("Hello World!")
+println("Hello World!")
+println("Hello Again!")
